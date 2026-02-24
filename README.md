@@ -4,7 +4,7 @@ This project demonstrates the performance optimization of 2D Convolution using S
 
 ---
 
-## 🚀 Features & Project Structure
+##  Features & Project Structure
 
 The project is divided into three main applications:
 
@@ -27,7 +27,7 @@ The project is divided into three main applications:
 
 ---
 
-## ⚙️ Compilation & Execution
+##  Compilation & Execution
 
 All programs are designed to run in a Linux environment (or WSL) and require the `GCC` compiler with AVX2 and FMA extensions enabled.
 
@@ -60,7 +60,7 @@ gcc numberDetector.c -o my_cnn -mavx2 -mfma -O3 -lm
 
 ---
 
-## 📊 Benchmark Results
+##  Benchmark Results
 
 ### C vs. AVX2 Assembly (Image Blurring)
 
