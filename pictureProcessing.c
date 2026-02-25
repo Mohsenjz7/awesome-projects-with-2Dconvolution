@@ -158,7 +158,7 @@ int main(){
     int width;
     int height;
     int channels;//تعداد کانال‌های رنگی (مثلاً 3 برای RGB و 4 برای RGBA)
-    char *imagePath = "Image.jpg";
+    char *imagePath = "test/Image.jpg";
     // مشخصات عکس در ۴ متغیر بالا ذخیره میشود
     //طول . عرض و وکانال و مسیر فایل عکس
 

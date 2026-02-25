@@ -73,7 +73,7 @@ Based on direct execution on the CPU, utilizing AVX2 SIMD instructions yielded a
 
 > **Conclusion:** The AVX2 implementation successfully blurred the image while being over 5 times faster than the standard, unoptimized C code.
 
-### Digit Recognition (MNIST)
+### Digit Recognition (MNIST) and Square Recognition
 
 * **Hardware:** CPU-only execution.
 * **Dataset:** Over 100 sequential test images.
